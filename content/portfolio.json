@@ -1,0 +1,274 @@
+{
+  "intro": "A selection of shipped Android, iOS and Flutter apps across social, travel, jobs, pets, sports, logistics, healthcare, utilities, finance, road safety, spirituality and more. Most projects were built from scratch, owning architecture, development and deployment.",
+  "apps": [
+    {
+      "name": "Rovelens",
+      "category": "Web3 socio booking platform",
+      "country": "UAE",
+      "description": "Rovelens is a Web3 socio-booking platform for travel and tourism that lets users explore cities and places based on experiences, discover professional photos, book photographers directly from their work, and search and book hotel stays and deals in one app.",
+      "tech": ["Android", "Travel & Tourism", "Web3"],
+      "image": "/images/portfolio/rovelens.png",
+      "links": [],
+      "files": []
+    },
+    {
+      "name": "Aas Paas Ki Naukri",
+      "category": "Local job search app",
+      "country": "India",
+      "description": "India’s #1 local jobs app that recommends nearby jobs based on skills and qualifications. Job seekers create a profile, add skills, and receive interview opportunities close to their chosen location, helping them get hired quickly in suitable roles.",
+      "tech": ["Android", "Jobs", "Localization"],
+      "image": "/images/portfolio/aas-paas-ki-naukri.png",
+      "links": [],
+      "files": []
+    },
+    {
+      "name": "Fauna Social",
+      "category": "Pet social network",
+      "country": "Canada",
+      "description": "A social media platform for pets and pet lovers where users share images, videos, organize meetups and events, and even sell items. It connects pet parents, clinics and communities around their pets’ lives and activities.",
+      "tech": ["Android", "Social Network", "Marketplace"],
+      "image": "/images/portfolio/bonniepet.jpg",
+      "links": [],
+      "files": []
+    },
+    {
+        "name": "Trash Tracker",
+        "category": "Anti fly-tipping · Waste management",
+        "country": "Global",
+        "description": "Trash Tracker solves illegal fly-tipping by connecting residents and businesses with verified waste collection trucks. Users book trash pickups from home or office, get real-time truck assignment and GPS tracking, and verify disposal at officially approved dump sites—ensuring 100% compliance and preventing environmental violations.",
+        "tech": ["GPS Tracking", "Real-time Assignment", "Geofencing", "Compliance Verification"],
+        "image": "/images/portfolio/trash-tracker.png",
+        "links": [],
+        "files": []
+    },
+    {
+        "name": "Astro Advice",
+        "category": "Numerology & Astrology",
+        "country": "Global",
+        "description": "Astro Advice delivers free personalized numerology readings based on name and birth date, plus direct access to expert astrologers for life guidance. Users post queries, receive tailored remedies and insights on relationships, career, and personal growth—all in a secure, user-friendly platform with instant readings and 1-2 day astrologer responses.",
+        "tech": ["Android", "Numerology Engine", "Astrologer Q&A", "Secure User Data"],
+        "image": "/images/portfolio/astro-advice.png",
+        "links": [
+            {
+            "label": "Google Play",
+            "href": "https://play.google.com/store/apps/details?id=com.nivea.numero"
+            }
+        ],
+        "files": [] 
+    },
+    {
+        "name": "Soul of Ink",
+        "category": "Poetry & Creative Writing Blog",
+        "country": "Global",
+        "description": "Soul of Ink is a dedicated mobile app for Rashi Bhanot's popular WordPress blog (soulofink.wordpress.com), delivering live updates of poems, stories, articles and book reviews. Users can like, share and support creative writings with instant notifications for new content from this established literary platform.",
+        "tech": ["Android", "WordPress RSS", "Live Updates", "Content Sync"],
+        "image": "/images/portfolio/soulofink.png",
+        "links": [
+            {
+            "label": "Google Play",
+            "href": "https://play.google.com/store/apps/details?id=com.soulofink.app"
+            },
+            {
+            "label": "Blog",
+            "href": "https://soulofink.wordpress.com"
+            }
+        ],
+        "files": []
+        },
+    {
+      "name": "FlipCard",
+      "category": "Socio-business network",
+      "country": "India",
+      "description": "FlipCard is a secure social network that connects real people, businesses, professionals and assets. Users can post photos and videos, follow businesses, discover local listings, and explore properties and services in a trusted environment.",
+      "tech": ["Android", "Social Network", "Business Listings"],
+      "image": "/images/portfolio/flipcard.jpg",
+      "links": [],
+      "files": []
+    },
+    {
+      "name": "Sports App",
+      "category": "Sports events & community",
+      "country": "India",
+      "description": "Sports App helps players and coaches find and organize nearby games, matches and academies. Users discover like‑minded players, arrange friendly matches, manage events and build a sports network around their favourite activities.",
+      "tech": ["Android", "Location", "Events"],
+      "image": "/images/portfolio/sports-app.png",
+      "links": [],
+      "files": []
+    },
+    {
+      "name": "FlyFeel",
+      "category": "Geo‑social place ratings",
+      "country": "USA",
+      "description": "FlyFeel is a geo‑social app where users share how a place feels in real time. It provides live vibe scores for places like bars, clubs, parks, beaches and cafés so users always know where the best atmosphere is.",
+      "tech": ["Android", "Geo‑social", "Real‑time Ratings"],
+      "image": "/images/portfolio/flyfeel.png",
+      "links": [
+        {
+          "label": "Promo video",
+          "href": "https://www.dropbox.com/s/ryvadvyb4pt9vjz/Screen%20Capture2014-01-31%2000_06_08.mov?dl=0"
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "WellnetPro",
+      "category": "On‑demand healthcare services",
+      "country": "USA",
+      "description": "WellnetPro connects patients with nurses, nutritionists, physiotherapists and personal trainers. Customers request care via the app, and registered providers receive requests, accept jobs and earn by delivering on‑demand healthcare services.",
+      "tech": ["iOS", "Android", "Healthcare", "On‑Demand"],
+      "image": "/images/portfolio/wellnetpro.png",
+      "links": [],
+      "files": []
+    },
+    {
+      "name": "Top Couriers",
+      "category": "Logistics & delivery",
+      "country": "USA",
+      "description": "Top Couriers is an Android and iOS app for logistics companies to manage deliveries. It scans barcodes, captures signatures and GPS coordinates, and supports offline data storage with later sync to streamline delivery and pickup operations.",
+      "tech": ["Android", "iOS", "Logistics", "Barcode"],
+      "image": "/images/portfolio/top-couriers.png",
+      "links": [
+        {
+          "label": "Promo video",
+          "href": "https://www.youtube.com/watch?v=ajLUqqbUoF4&list=PLOhE6408ya6Yiw53Q1Uy-O-qmYfoQGyJ8&index=1"
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "Cal Fire NSB",
+      "category": "Narcotic Security Bag tracking",
+      "country": "USA",
+      "description": "A Flutter app used by California fire stations to manage Narcotic Security Bag inventory. Paramedics scan bag details, capture signatures and track expired or expiring drugs with clear flag reports and days‑to‑expiry indicators.",
+      "tech": ["Flutter", "Android", "Inventory Tracking"],
+      "image": "/images/portfolio/calfire.png",
+      "links": [
+        {
+          "label": "YouTube demo",
+          "href": "https://www.youtube.com/watch?v=VIDEO_ID_NSB"
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "AIM Medical Transport",
+      "category": "Non‑emergency medical transport",
+      "country": "USA",
+      "description": "Android app for AIM Medical Transport’s drivers to manage non‑emergency medical transportation requests. It handles trip assignments, real‑time status updates, checklists and tracking to improve fleet visibility and operations.",
+      "tech": ["Android", "Fleet Management", "Healthcare"],
+      "image": "/images/portfolio/aim-medical.png",
+      "links": [
+        {
+          "label": "YouTube demo",
+          "href": "https://www.youtube.com/watch?v=VIDEO_ID_AIM"
+        }
+      ],
+      "files": []
+    },
+    {
+        "name": "Social Distance Alert",
+        "category": "COVID-19 · Health Safety",
+        "country": "Global",
+        "description": "Social Distance Alert uses Bluetooth Low Energy (BLE) to detect when users are within 6 feet (2 meters) of each other and immediately sends proximity alerts via vibration, sound and notifications. Built during the COVID-19 pandemic to promote public health safety through real-time distance monitoring and contactless warnings.",
+        "tech": ["Bluetooth LE", "BLE Ranging", "Real-time Alerts", "COVID Safety"],
+        "image": "/images/portfolio/social-distance.png",
+        "links": [],
+        "files": []
+    },
+    {
+        "name": "HAM Brokerage",
+        "category": "Fleet Management · Logistics Tracking",
+        "country": "Global",
+        "description": "HAM Brokerage is a comprehensive truck fleet management system with real-time GPS tracking, trip-based document management, and admin oversight. Drivers register trucks and upload trip-specific documents (PDFs), temperature images, seals, and photos with automatic GPS stamping. Web admin dashboard displays live truck locations on interactive maps (50-mile radius), truck documents, and supports state/city-based filtering with SMS notifications for trip start/end coordination.",
+        "tech": ["Real-time GPS", "Trip Management", "Document Upload", "Admin Dashboard", "SMS Notifications"],
+        "image": "/images/portfolio/ham-brokerage.jpg",
+        "links": [],
+        "files": []
+        },
+    {
+      "name": "Robertson’s MDT App",
+      "category": "Fleet routing & messaging",
+      "country": "USA",
+      "description": "Dashboard app for CalAmp Mobile Data Terminals in Robertson’s trucks. It acts as a launcher, handles routing to plant locations using Sygic navigation, exchanges messages and jobs with a backend and reads LMU accumulator data.",
+      "tech": ["Android", "CalAmp MDT", "Sygic Navigation"],
+      "image": "/images/portfolio/robertsons-mdt.png",
+      "links": [],
+      "files": []
+    },
+    {
+      "name": "Novum Forum",
+      "category": "Insurance quotes compare app",
+      "country": "USA",
+      "description": "Users enter home and vehicle details to instantly receive competitive quotes from multiple insurance providers, making it easier to choose the right home or auto insurance.",
+      "tech": ["Android", "Insurance", "REST APIs"],
+      "image": "/images/portfolio/novum.png",
+      "links": [
+        {
+          "label": "Promo video",
+          "href": "https://www.youtube.com/watch?v=vJb1BMRLt84&list=PLOhE6408ya6ZyTBSGelOHZyGiDbvyMPka"
+        }
+      ],
+      "files": []
+    },
+    {
+      "name": "Watersafe Swim School",
+      "category": "Education · Progress tracking",
+      "country": "USA",
+      "description": "Watersafe Swim School lets parents track their children’s swim training across 12 graded programs, view active grades, monitor skill completion and print certificates when grades are completed.",
+      "tech": ["Android", "Education", "Progress Tracking"],
+      "image": "/images/portfolio/watersafe.png",
+      "links": [
+        {
+          "label": "YouTube demo",
+          "href": "https://www.youtube.com/watch?v=VIDEO_ID_WATERSAFE"
+        }
+      ],
+      "files": []
+    },
+    {
+        "name": "RemindMe",
+        "category": "Personal Reminders & Celebrations",
+        "country": "Global",
+        "description": "RemindMe is a beautifully designed reminder app focused on the dates that matter—birthdays, anniversaries and special events. With a playful balloon-themed interface and Google sign-in, users can quickly add new events through shortcut actions and never miss an important day again. The app keeps upcoming occasions organized in a clean timeline and makes it effortless to celebrate loved ones on time.",
+        "tech": ["Android", "Google Sign-In", "Local Notifications", "Material Design UI"],
+        "image": "/images/portfolio/remind-me.png",
+        "links": [],
+        "files": []
+        },
+    {
+      "name": "DriveSafe",
+      "category": "Road safety utility",
+      "country": "USA",
+      "description": "Android app that auto‑rejects incoming calls while driving and sends SMS auto‑replies. Users configure trigger speeds so call blocking only activates above a chosen speed.",
+      "tech": ["Android", "Utilities", "Road Safety"],
+      "image": "/images/portfolio/safedrive.png",
+      "links": [],
+      "files": []
+    },
+    {
+      "name": "Loan Calculator",
+      "category": "Finance utility",
+      "country": "India",
+      "description": "A popular loan EMI calculator supporting reducing/diminishing balance and flat interest rates, interactive sliders, detailed repayment tables and interest vs principal graphs for flexible loan analysis.",
+      "tech": ["Android", "Finance"],
+      "image": "/images/portfolio/loancalc.png",
+      "links": [],
+      "files": []
+    },
+    {
+      "name": "Shri Durga Chalisa",
+      "category": "Books · Spiritual",
+      "country": "India",
+      "description": "A devotional app for reading and reciting Durga Chalisa, designed for daily use by devotees. It provides a clean interface for the 40‑verse hymn and is popular among users seeking auspicious daily practice.",
+      "tech": ["Android", "Spirituality"],
+      "image": "/images/portfolio/durga-chalisa.png",
+      "links": [
+        {
+          "label": "Google Play",
+          "href": "https://play.google.com/store/apps/details?id=com.sam.android.durgachalisa"
+        }
+      ],
+      "files": []
+    }
+  ]
+}

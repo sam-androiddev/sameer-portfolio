@@ -1,0 +1,11 @@
+{
+  "title": "How we can work together.",
+  "intro": "Consulting and training services focus on helping teams design better architectures, improve code quality, and ship mobile apps more confidently.",
+  "items": [
+    "Architecture and codebase reviews for Android, iOS, and Flutter apps.",
+    "Mentoring developers on state management, testing, and CI/CD.",
+    "Product and technical guidance for founders building their first MVP.",
+    "Workshops and short training programs for in‑house teams."
+  ],
+  "closing": "A typical engagement starts with a short discovery call to understand your product, codebase, and goals."
+}

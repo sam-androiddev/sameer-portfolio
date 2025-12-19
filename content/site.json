@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "title": "Sameer Bhanot",
+    "headline": "Mobile App Consultant & Trainer",
+    "description": "20+ years of experience building mobile apps and consulting for startups and enterprises."
+},
+  "home": {
+    "heroEyebrow": "Mobile · Web · Consulting",
+    "heroTitle": "Helping you design, build, and scale mobile products.",
+    "paragraphs": [
+      "Technical leader and full‑stack mobile developer with 18+ years in the software industry, partnering with founders and teams to ship production‑ready Android and iOS apps.",
+      "The focus is on clean architecture, maintainable code, and reliable releases—whether building from scratch or improving an existing codebase.",
+      "Consulting and training services help teams improve code quality, modernize their stack, and adopt better delivery practices through workshops and 1:1 mentoring."
+    ],
+    "ctaPrimaryLabel": "View portfolio",
+    "ctaSecondaryLabel": "Book a consultation"
+  },
+  "contact": {
+    "email": "sam.androiddev@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/sameer-bhanot-5446665/",
+    "intro": "For consulting, training, or new app development, the best way to start is with a brief message describing your product, current stack, and what you need help with.",
+    "formServices": [
+      "New App Development",
+      "Consulting",
+      "Training"
+    ]
+  }
+  
+}
