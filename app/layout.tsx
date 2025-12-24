@@ -3,9 +3,32 @@ import Image from "next/image";
 import "./globals.css";
 import site from "../content/site.json";
 
+const baseUrl = "https://sameer-bhanot.vercel.app";
+
 export const metadata: Metadata = {
-  title: site.meta.title,
+  title: `${site.meta.title} - ${site.meta.headline}`,
   description: site.meta.description,
+  openGraph: {
+    title: `${site.meta.title} - ${site.meta.headline}`,
+    description: site.meta.description,
+    url: baseUrl,
+    siteName: site.meta.title,
+    images: [
+      {
+        url: site.meta.image,
+        width: 630,
+        height: 630,
+        alt: `${site.meta.title} - ${site.meta.headline}`
+      }
+    ],
+    type: "website"
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: site.meta.title,
+    description: site.meta.description,
+    images: [site.meta.image]
+  }
 };
 
 export default function RootLayout({

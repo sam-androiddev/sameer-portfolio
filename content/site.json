@@ -2,7 +2,8 @@
   "meta": {
     "title": "Sameer Bhanot",
     "headline": "Mobile App Consultant & Trainer",
-    "description": "20+ years of experience building mobile apps and consulting for startups and enterprises."
+    "description": "20+ years of experience building mobile apps and consulting for startups and enterprises.",
+    "image": "/images/profile.png"
 },
   "home": {
     "heroEyebrow": "Mobile · Web · Consulting",
