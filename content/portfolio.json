@@ -2,6 +2,16 @@
   "intro": "A selection of shipped Android, iOS and Flutter apps across social, travel, jobs, pets, sports, logistics, healthcare, utilities, finance, road safety, spirituality and more. Most projects were built from scratch, owning architecture, development and deployment.",
   "apps": [
     {
+      "name": "GramShakti",
+      "category": "Agricutural Tools Lead Management App",
+      "country": "INDIA",
+      "description": "GramShakti is a lead management app designed for agricultural tools and equipment sales, helping users track potential customers and manage their sales pipeline efficiently.",
+      "tech": ["Android", "Lead Management", "Agriculture"],
+      "image": "/images/portfolio/gramshakti.png",
+      "links": [],
+      "files": []
+    },
+    {
       "name": "Rovelens",
       "category": "Web3 socio booking platform",
       "country": "UAE",
