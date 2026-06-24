@@ -33,7 +33,12 @@
       "description": "India’s #1 local jobs app that recommends nearby jobs based on skills and qualifications. Job seekers create a profile, add skills, and receive interview opportunities close to their chosen location, helping them get hired quickly in suitable roles.",
       "tech": ["Android", "Jobs", "Localization"],
       "image": "/images/portfolio/aas-paas-ki-naukri.png",
-      "links": [],
+      "links": [
+            {
+            "label": "Google Play",
+            "href": "https://play.google.com/store/apps/details?id=com.localjobs.app"
+            }
+        ],
       "files": []
     },
     {
