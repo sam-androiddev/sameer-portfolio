@@ -8,7 +8,12 @@
       "description": "GramShakti is a lead management app designed for agricultural tools and equipment sales, helping users track potential customers and manage their sales pipeline efficiently.",
       "tech": ["Android", "Lead Management", "Agriculture"],
       "image": "/images/portfolio/gramshakti.png",
-      "links": [],
+      "links": [
+            {
+            "label": "Google Play",
+            "href": "https://play.google.com/store/apps/details?id=com.leads.app"
+            }
+        ],
       "files": []
     },
     {
